@@ -1,12 +1,11 @@
 ---
-title: Ma deuxième page
-date: 2021-10-14
+title: Ma deuxième Focus
+date: 2014-06-14
 slug: "/deux/"
 ---
 
-<Hello/>
+# Grise
 
-- liste
-- liste
+![Focus 2](../images/focus2.jpg)
 
-<Bye/>
+## 2.0L 16v 130cv
