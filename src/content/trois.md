@@ -6,6 +6,6 @@ slug: "/trois/"
 ---
 # Bleue Miami
 
-![Focus 3](../images/focus3.png)![](../images/focus3.JPG)
+![Focus 3]("https://imagizer.imageshack.com/img924/3834/tAwM3w.jpg")
 
 ## 1.6L 16v 100cv
